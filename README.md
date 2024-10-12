@@ -1,2 +1,2 @@
-# jaba-basico
+# java-basico
 Repositório Java Básico
